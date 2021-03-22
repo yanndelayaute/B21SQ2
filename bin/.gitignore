@@ -1,11 +1,7 @@
-/Boule.class
-/Jeu.class
-/JeuClient.class
-/JeuServeur.class
-/Joueur.class
-/Mur.class
-/Objet.class
-/modele/
+/boules/
+/fonds/
+/murs/
+/personnages/
+/sons/
 /vue/
 /controleur/
-/outils/
